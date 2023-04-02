@@ -1,0 +1,7 @@
+﻿  Source.cpp
+E:\study\study\Masters\studies\Engg Computation\assignment\assignment_2b\assignment_2b\assignment_2b\Source.cpp(26,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\study\study\Masters\studies\Engg Computation\assignment\assignment_2b\assignment_2b\assignment_2b\Source.cpp(44,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\study\study\Masters\studies\Engg Computation\assignment\assignment_2b\assignment_2b\assignment_2b\Source.cpp(45,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\study\study\Masters\studies\Engg Computation\assignment\assignment_2b\assignment_2b\assignment_2b\Source.cpp(46,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\study\study\Masters\studies\Engg Computation\assignment\assignment_2b\assignment_2b\assignment_2b\Source.cpp(47,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  assignment_2b.vcxproj -> E:\study\study\Masters\studies\Engg Computation\assignment\assignment_2b\assignment_2b\x64\Debug\assignment_2b.exe

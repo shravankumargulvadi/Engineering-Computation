@@ -1,0 +1,3 @@
+﻿  ps02_dice_sgulvadi.cpp
+E:\study\study\Masters\studies\Engg Computation\assignment\assignment_2\submission\part2\ps02_dice_sgulvadi.cpp(61,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  assig_2_2.vcxproj -> E:\study\study\Masters\studies\Engg Computation\assignment\assignment_2\submission\part2\assig_2_2\x64\Debug\assig_2_2.exe
